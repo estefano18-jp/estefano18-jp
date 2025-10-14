@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=200&section=header&text=¡Bienvenid@%20a%20mi%20perfil!&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 </p>
 
-<!-- Texto animado que te gustó -->
+<!-- Texto animado -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=5000&color=00C3FF&center=true&vCenter=true&width=600&lines=Soy+Estefano+Olivos;Programador+%7C+Gamer+%7C+VTuber" alt="Bienvenido a mi perfil">
 </p>
@@ -27,15 +27,26 @@
 
 ---
 
-## 📌 Proyectos destacados  
+## 📌 Proyectos personales (enlazados)
+Aquí algunos proyectos que tengo en GitHub — puedes ver el código, instalar o usar como referencia.
 
-- 🔹 **CRUD en PHP con MVC**  
-- 🔹 **Aplicación móvil para préstamos (Android Studio)**  
-- 🔹 **API REST para gestión de préstamos**  
-- 🔹 **CRUD Veterinaria con EJS**  
-- 🔹 **Webservice para tienda en PHP**  
-- 🔹 **App móvil para tienda (Android Studio)**  
-- 🔹 **Aplicación veterinaria en Android Studio**  
+### 🔷 Proyectos destacados
+- 🔹 **[sistemaclinica](https://github.com/estefano18-jp/sistemaclinica)** — Sistema de gestión para clínica (PHP, MVC).  
+- 🔹 **[Sistema-de-alquiler](https://github.com/estefano18-jp/Sistema-de-alquiler)** — Sistema de alquiler de campos deportivos: gestión de reservas, horarios y administración.  
+- 🔹 **[clinica](https://github.com/estefano18-jp/clinica)** — Proyecto similar con módulo de pacientes y doctores (PHP).  
+- 🔹 **[TiendaRopaChincha](https://github.com/estefano18-jp/TiendaRopaChincha)** — Aplicación de tienda de ropa (Java).  
+- 🔹 **[wstienda](https://github.com/estefano18-jp/wstienda)** — Webservice para tienda (PHP).  
+- 🔹 **[API-REMEDIO](https://github.com/estefano18-jp/API-REMEDIO)** — API en JavaScript para gestión de datos médicos.  
+
+---
+
+## 📦 Otros repositorios y prácticas
+- 🔸 `figuras` — Cálculo de áreas y figuras geométricas (Java).  
+- 🔸 `Tarea1-6to` — Ejercicios de programación (Java).  
+- 🔸 `SuperHero` — Proyecto divertido con clases y herencia (Java).  
+- 🔸 `Empreados` — CRUD básico de empleados (Java).  
+- 🔸 `proyecto-1` — Ejercicio inicial en PHP.  
+- 🔸 `basicogit` — Primeros pasos con Git.  
 
 ---
 
@@ -63,9 +74,7 @@
   👉 Escríbeme por <a href="https://github.com/estefano18-jp" target="_blank">GitHub</a> 😎
 </p>
 
----
-
-<!-- Pie animado con fondo azul celeste -->
+<!-- Pie animado -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00c3ff&height=120&section=footer"/>
 </p>
